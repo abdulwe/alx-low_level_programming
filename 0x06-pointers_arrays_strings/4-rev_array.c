@@ -2,9 +2,9 @@
 
 /**
  * reverse_array - Reserves the content of an array of integers
- * @: The array of integers to be reversed
+ * @a: The array of integers to be reversed
  * @n: the number of element in the array
- * 
+ *
  */
 
 void reverse_array(int *a, int n)
