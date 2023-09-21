@@ -1,6 +1,6 @@
 #include "main.h"
  /**
-  * _strcnp - compares points to two strings
+  * _strcmp - compares points to two strings
   * @s1: A pointer to the first string to be compared
   * @s2: A pointer to the secondary string to be compared
   * Return: If str1 < str2,
