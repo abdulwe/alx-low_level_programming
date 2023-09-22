@@ -1,9 +1,6 @@
 #include <stdio.h>
 /**
  * main - print........
- * @n: number to take address of
- * @p: it is a pointer for n
- * @a: it is an array
  * Return: Always 0 (success)
  */
 
@@ -24,9 +21,9 @@ p = &n;
  * -only one statement
  * -you are allow to code anything else than this line of code
  */
+p[5] = 98;
+/* so that this print 98\n */
 
-*(p + 5) = 98;
-/* ...so that this print 98\n */
 printf("a[2] = %d\n", a[2]);
 return (0);
 }
